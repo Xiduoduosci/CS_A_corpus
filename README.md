@@ -1,0 +1,1 @@
+This project provides code for obtaining Cyber-Syndrome corpus and acupoint corpus, as well as conducting entity and relationship annotation agreement analysis. The naming is very intuitive and allows for self understanding of the coder for each file.
